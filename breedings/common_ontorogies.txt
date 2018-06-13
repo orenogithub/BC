@@ -1,0 +1,32 @@
+Agronomy Ontology/AGRonomy Ontology	AGRO	#different case
+Animal Trait Ontology for Livestock	ATOL
+Basic Formal Ontology	BFO
+Biological Collections Ontology	BCO
+Cell Ontology	CL
+Comparative Data Analysis Ontology	CDAO
+EDAM bioinformatics operations, data types, formats, identifiers and topics/EDAM bioinformatics operations, types of data, data formats, identifiers, and topics	EDAM	# different name
+Environment Ontology	ENVO
+Environment Ontology for Livestock	EOL
+Experimental Factor Ontology	EFO
+Feature Annotation Location Description Ontology	FALDO
+Flora Phenotype Ontology	FLOPO
+FoodOn	FOODON
+Gene Ontology	GO
+Genomic Feature and Variation Ontology	GFVO
+National Center for Biotechnology Information (NCBI) Organismal Classification	NCBITAXON
+Phenotypic Quality Ontology	PATO
+Plant Experimental Assay Ontology	PEAO
+Plant Experimental Conditions Ontology	PECO
+Plant Ontology	PO
+Plant Trait Ontology	TO/PTO	# This ontology in AgroPortal is newer than that of BioPortal. They have different acronyms.
+Population and Community Ontology	PCO
+Protein Ontology	PR
+Relations Ontology	RO/OBOREL	# AgroPortal and BioPortal has different acronyms
+Semantic Sensor Network Ontology	SSN
+Semanticscience Integrated Ontology	SIO
+Sequence Types and Features Ontology	SO
+Single-Nucleotide Polymorphism (SNP) Ontology	SNPO
+Soy Ontology	SOY
+UMLS Semantic Network/Semantic Types Ontology	STY	#different name
+Variation Ontology	VARIO
+Vertebrate Trait Ontology	VT
